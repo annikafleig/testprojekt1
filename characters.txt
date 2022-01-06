@@ -1,1 +1,3 @@
 info about characters
+main character
+...
